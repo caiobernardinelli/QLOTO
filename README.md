@@ -54,13 +54,13 @@ QLOTO is a research project applying Quantum Locality-Sensitive Hashing (QLSH) t
 
 ## 📂 Repository Structure
 QLOTO/
-├── README.md           (this file)
-├── notebooks/          (Jupyter notebooks — exploratory code)
-├── src/                (Python modules — production code)
-├── data/               (datasets — PhysioNet, BCI CompIV, etc)
-├── results/            (output — figures, metrics, logs)
-├── paper/              (manuscript — Overleaf, LaTeX)
-└── wiki/               (documentation — methods, links, learning notes)
+├── README.md (this file)
+├── notebooks/ (Jupyter notebooks — exploratory code)
+├── src/ (Python modules — production code)
+├── data/ (datasets — PhysioNet, BCI CompIV, etc)
+├── results/ (output — figures, metrics, logs)
+├── paper/ (manuscript — Overleaf, LaTeX)
+└── wiki/ (documentation — methods, links, learning notes)
 ---
 
 ## 📄 License
