@@ -1,6 +1,9 @@
-# QLOTO
+# QLOTO: Quantum Locality-Sensitive Hashing for Orthotic Trajectory Optimization
 
-## Quantum Locality-Sensitive Hashing for EEG-based Brain-Computer Interfaces
+**Full Name:** Quantum Locality-Sensitive Hashing for Orthotic Trajectory Optimization  
+**Application Domain:** EEG-based Brain-Computer Interfaces for Chronic Traumatic Spinal Cord Injury Rehabilitation
+
+## Complete Literature Review and References
 
 **A quantum-classical hybrid framework for rapid similarity search in high-dimensional EEG feature spaces, targeting non-invasive BCI rehabilitation in chronic traumatic spinal cord injury.**
 
