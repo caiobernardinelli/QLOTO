@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+title: "QLOTO: Quantum Locality-Sensitive Hashing for Orthotic Trajectory Optimization"
+subtitle: "EEG-based Brain-Computer Interface Acceleration"
+abstract: "A quantum-classical hybrid framework for rapid similarity search in high-dimensional EEG feature spaces, targeting non-invasive BCI rehabilitation in chronic traumatic spinal cord injury. QLOTO optimizes motor intention decoding latency via quantum-accelerated locality-sensitive hashing for real-time exoskeleton control."
+authors:
+  - family-names: "Bernardinelli"
+    given-names: "Caio"
+    affiliation: "Studio Modèe, Lisbon; IFNMG, Montes Claros, Brazil"
+
+keywords:
+  - "quantum computing"
+  - "brain-computer interfaces"
+  - "EEG"
+  - "locality-sensitive hashing"
+  - "spinal cord injury"
+  - "neurorehabilitation"
+
+license: "MIT"
+repository-code: "https://github.com/caiobernardinelli/QLOTO"
+type: "software"
+
+references:
+  - type: "conference-paper"
+    authors:
+      - family-names: "Gonzalez-Cely"
+        given-names: "Aura Ximena"
+      - family-names: "Blanco-Díaz"
+        given-names: "Cristian Felipe"
+      - family-names: "Delisle-Rodriguez"
+        given-names: "Denis"
+      - family-names: "Bastos-Filho"
+        given-names: "Teodiano Freire"
+    title: "EEG-Based Multi-Class Classification for Recognizing Pedaling Velocities"
+    conference:
+      name: "2024 10th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics (BioRob)"
+    year: 2024
+    pages: "223-228"
+    doi: "10.1109/ICCAD60883.2024.10553756"
+
+  - type: "journal-article"
+    authors:
+      - family-names: "Blanco-Díaz"
+        given-names: "Cristian Felipe"
+      - family-names: "Delisle-Rodriguez"
+        given-names: "Denis"
+    title: "Lower-Limb Kinematic Reconstruction During Pedaling Tasks from EEG Signals Using Unscented Kalman Filter"
+    journal: "Computer Methods in Biomechanics and Biomedical Engineering"
+    volume: 27
+    issue: 7
+    pages: "867-877"
+    year: 2024
+    doi: "10.1080/10255842.2023.2207705"
+
+  - type: "journal-article"
+    authors:
+      - family-names: "Blanco-Diaz"
+        given-names: "Cristian Felipe"
+      - family-names: "Delisle-Rodriguez"
+        given-names: "Denis"
+    title: "EEG-Based Analysis of Motor Imagery and Multi-Speed Passive Pedaling"
+    journal: "Signals"
+    volume: 6
+    issue: 4
+    year: 2025
+    doi: "10.3390/signals6040052"
