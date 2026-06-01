@@ -187,6 +187,6 @@ Email: denis.rodriguez@isd.org.br
 Lattes: http://lattes.cnpq.br/7140331839822423  
 Google Scholar: https://scholar.google.com.br/citations?user=axdSb0MAAAAJ
 
----
+--
 
 **Last Updated:** December 2026
