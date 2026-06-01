@@ -46,10 +46,41 @@ QLOTO is a research project applying Quantum Locality-Sensitive Hashing (QLSH) t
 
 ## 📚 Key References
 
+### Foundational BCI + EEG + Rehabilitation (Denis Delisle Rodriguez, ISD)
+
+- **Gonzalez-Cely et al. (2024)** — "EEG-Based Multi-Class Classification for Recognizing Pedaling Velocities: A Promising Approach for Brain-Computer Interface-Enhanced Lower-Limb Robotic Rehabilitation." *BioRob 2024*, Heidelberg. DOI: 10.1109/ICCAD60883.2024.10553756
+  - Multi-class classification of motor intent from EEG (87–89% accuracy)
+  - Motorized Mini-Exercise Bikes (MMEBs) for passive/active pedaling
+  - Common Spatial Patterns (CSP) + CNN architecture
+  - **Relevance to QLOTO:** Demonstrates baseline CNN decoder for lower-limb motor intention; QLOTO extends with LSH acceleration
+
+- **Blanco-Díaz et al. (2024)** — "Lower-Limb Kinematic Reconstruction During Pedaling Tasks from EEG Signals Using Unscented Kalman Filter." *Computer Methods in Biomechanics and Biomedical Engineering*, Vol. 27(7), pp. 867–877. DOI: 10.1080/10255842.2023.2207705
+  - Kinematic decoding (position, velocity) directly from EEG in real-time
+  - Slow cortical potentials (delta band, 0.1–4 Hz) for motor control
+  - Unscented Kalman Filter for state estimation
+  - **Relevance to QLOTO:** Validates closed-loop EEG→kinematics mapping; critical for exoskeleton feedback
+
+- **Blanco-Diaz et al. (2025)** — "EEG-Based Analysis of Motor Imagery and Multi-Speed Passive Pedaling: Implications for Brain–Computer Interfaces." *Signals*, Vol. 6, Article 52. https://www.mdpi.com/2624-6120/6/4/52
+  - Motor imagery (MI) priming via passive pedaling (PP) sensory input
+  - CNN achieves 87–89% on 4-class pedaling speeds
+  - Enhanced cortical engagement through sensorimotor priming
+  - **Relevance to QLOTO:** Protocol design for SCI-appropriate BCI training; extends beyond healthy subjects
+
+### Classical BCI Benchmarks + Quantum/Accelerated Search
+
 - **Walk Again 2016** (Nature): Nicolelis et al. — 8 SCI patients, 12 months BMI + exoskeleton, neurological recovery
 - **QEEGNet** (arXiv 2503.00080, Mar 2026) — Quantum EEG classification for BCI
 - **FastLSH** (OpenReview ICLR 2025) — Efficient locality-sensitive hashing
 
+- Expand Key References section with 3 papers (2024-2025)
+- Add description of each paper's relevance to QLOTO
+- Include link to docs/REFERENCES.md for full literature review
+   
+   These papers demonstrate state-of-the-art EEG decoding for 
+   lower-limb rehabilitation (87-89% CNN accuracy).
+
+### Full Reference List
+See [docs/REFERENCES.md](docs/REFERENCES.md) for complete literature review and additional citations.
 ---
 
 ## 📂 Repository Structure
