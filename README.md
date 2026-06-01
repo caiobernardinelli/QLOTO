@@ -1,6 +1,5 @@
 # QLOTO: Quantum Locality-Sensitive Hashing for Orthotic Trajectory Optimization
 
-**Full Name:** Quantum Locality-Sensitive Hashing for Orthotic Trajectory Optimization  
 **Application Domain:** EEG-based Brain-Computer Interfaces for Chronic Traumatic Spinal Cord Injury Rehabilitation
 
 ## Complete Literature Review and References
@@ -10,6 +9,9 @@
 ---
 
 ## 🇵🇹 Português
+
+### Nome Completo
+**QLOTO** = Quantum Locality-Sensitive Hashing for Orthotic Trajectory Optimization
 
 ### Objetivo
 QLOTO é um projeto de pesquisa que aplica Quantum Locality-Sensitive Hashing (QLSH) a sinais de EEG para criar interfaces cérebro-computador (BCI) não-invasivas. O foco é reabilitação de lesão medular traumática crônica através de feedback sensório-motor via exoesqueleto ou prótese robótica.
@@ -29,6 +31,9 @@ QLOTO é um projeto de pesquisa que aplica Quantum Locality-Sensitive Hashing (Q
 ---
 
 ## 🇬🇧 English
+
+### Full Name
+**QLOTO** = Quantum Locality-Sensitive Hashing for Orthotic Trajectory Optimization
 
 ### Objective
 QLOTO is a research project applying Quantum Locality-Sensitive Hashing (QLSH) to EEG signals for developing non-invasive brain-computer interfaces (BCI). The focus is on rehabilitation of chronic traumatic spinal cord injury via sensorimotor feedback through exoskeleton or robotic prosthesis.
@@ -69,11 +74,13 @@ QLOTO is a research project applying Quantum Locality-Sensitive Hashing (QLSH) t
   - Enhanced cortical engagement through sensorimotor priming
   - **Relevance to QLOTO:** Protocol design for SCI-appropriate BCI training; extends beyond healthy subjects
 
-### Classical BCI Benchmarks + Quantum/Accelerated Search
+
+### Classical BCI Benchmarks
 
 - **Walk Again 2016** (Nature): Nicolelis et al. — 8 SCI patients, 12 months BMI + exoskeleton, neurological recovery
-- **QEEGNet** (arXiv 2503.00080, Mar 2026) — Quantum EEG classification for BCI
-- **FastLSH** (OpenReview ICLR 2025) — Efficient locality-sensitive hashing
+
+### Full Reference List
+See [docs/REFERENCES.md](docs/REFERENCES.md) for complete literature review and additional citations.
 
 - Expand Key References section with 3 papers (2024-2025)
 - Add description of each paper's relevance to QLOTO
